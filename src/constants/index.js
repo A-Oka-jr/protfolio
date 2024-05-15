@@ -16,10 +16,10 @@ import {
   maham,
   lemon,
   smart,
-  carrent,
+  mern,
   mega,
-  tripguide,
   mysql,
+  lemar,
   angular,
 } from "../assets";
 
@@ -209,7 +209,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: carrent,
+    image: mern,
     source_code_link: "https://github.com/A-Oka-jr/mern-estate",
   },
   {
@@ -259,7 +259,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: tripguide,
+    image: lemar,
     source_code_link: "https://github.com/A-Oka-jr/lemar-medical",
   },
 ];

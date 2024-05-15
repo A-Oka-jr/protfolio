@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import lemar from "./lemar.png";
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -23,8 +24,7 @@ import meta from "./company/meta.png";
 import smart from "./company/shopify.png";
 import maham from "./company/maham.png";
 import lemon from "./company/lemon.png";
-
-import carrent from "./carrent.png";
+import mern from "./mern.png";
 import mega from "./mega.png";
 import tripguide from "./tripguide.png";
 
@@ -52,8 +52,9 @@ export {
   smart,
   maham,
   lemon,
-  carrent,
+  mern,
   mega,
   tripguide,
   angular,
+  lemar,
 };

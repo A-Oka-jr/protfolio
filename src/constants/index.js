@@ -19,7 +19,7 @@ import {
   mern,
   mega,
   mysql,
-  lemar,
+  atc,
   angular,
 } from "../assets";
 
@@ -238,9 +238,9 @@ const projects = [
     source_code_link: "https://github.com/A-Oka-jr/mega_shop",
   },
   {
-    name: "Lemar Medical",
+    name: "African Training Center",
     description:
-      "Lemar is a cutting-edge platform dedicated to booking appointments for cosmetic surgeries at reputable hospitals and clinics.allowing them to select and schedule cosmetic procedures that meet their needs and aspirations with ease and convenience.",
+      "The African Trininig Center offers various technical training programs and certifications aimed at enhancing digital skills. It provides courses in areas such as information technology, digital marketing, and software development. ",
     tags: [
       {
         name: "Angular",
@@ -259,8 +259,8 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: lemar,
-    source_code_link: "https://github.com/A-Oka-jr/lemar-medical",
+    image: atc,
+    source_code_link: "https://afro-tech.net/#!/app/home",
   },
 ];
 
